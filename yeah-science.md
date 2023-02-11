@@ -51,7 +51,7 @@ https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c?si=a7819c9cf29d4d47
 
 Possible alternative section name, except this fact isn't in any of the songs:
 
-<img src="https://i.imgflip.com/662yx9.jpg" />
+<img src="https://i.imgflip.com/662yx9.jpg" width="25%" height="25%" />
 
 - First, a classic of this genre, Tom Lehrer's "The Elements". Written in 1959, it sets the names of chemical elements to "I Am A Model Of A Modern Major-General" from Gilbert & Sullivan's "The Pirates of Penzance", which premiered in 1879.<br />https://open.spotify.com/track/3LRGJ97WvYoD99lDgtcIFJ?si=2906af3879eb4b85
   - Per longstanding computer-science tradition, here's an extra layer of indirection: David Costabile,
@@ -96,7 +96,7 @@ Possible alternative section name, except this fact isn't in any of the songs:
 
 ## What's Your Favorite Thing About Space?
 
-<img src="https://i.pinimg.com/564x/5a/d5/87/5ad58762852bd93b153af0d2342b9b35.jpg" />
+<img src="https://i.pinimg.com/564x/5a/d5/87/5ad58762852bd93b153af0d2342b9b35.jpg" width="25%" height="25%" />
 
 - The Planets - https://open.spotify.com/track/10Cq6tvJ64qcAHNytadqEU?si=f7932b98d78b4819
 
@@ -111,7 +111,7 @@ Possible alternative section name, except this fact isn't in any of the songs:
 
 ## Fermentation
 
-### Isn't Amyris, in a sense, an extremely niche craft brewery? And aren't drinking songs, in a sense, about fermentation?
+### Isn't Amyris, in a sense, an extremely niche craft brewery?<br />And aren't drinking songs, in a sense, about fermentation?
 
 First in this section, the only thing I know of that could be considered an ode to *Saccharomyces cerevisiae*.
 (If you know anything else, please let me know!)
