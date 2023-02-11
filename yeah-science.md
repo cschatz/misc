@@ -4,7 +4,7 @@ Sections:
 - [Popular Science](#pop-science)
 - [A Little Bit Country](#a-little-bit-country-a-little-bit-science)
 - [Heliocentrism](#heliocentrism-songs-about-the-sun)
-- [Learning Thourgh Song](#learning-through-song)
+- [Learning Through Song](#learning-through-song)
 - [What's Your Favorite Thing About Space?](#whats-your-favorite-thing-about-space)
 - [Fermentation](#fermentation)
 
