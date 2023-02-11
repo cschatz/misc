@@ -45,7 +45,7 @@ https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c?si=a7819c9cf29d4d47
   - In flowchart form: http://cdn1.vox-cdn.com/assets/4319553/tumblr_kojs29L9OU1qzd1jno1_r2_1280.jpg
 
 - Why Does the Sun Shine? - https://open.spotify.com/track/1wfa3vAiIAbSxHbzKoSPuS?si=b8c578d51ba747fb
-  - N.B.: Stricly speaking, the chorus lyrics here are inaccurate. The same album does include "Why Does The Sun **Really** Shine?", which explains the state of matter inside the sun is mostly plasma, but it's not as catchy.
+  - Note: Stricly speaking, the chorus lyrics here are inaccurate. The same album does include "Why Does The Sun **Really** Shine?", which explains the state of matter inside the sun is mostly plasma, but it's not as catchy.
 
 ## Learning Through Song
 
