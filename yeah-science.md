@@ -1,7 +1,7 @@
 # "Yeah SCIENCE!" Playlist - February 21, 2022
 
 Sections:
-- [Popular Science](#pop-science)
+- [Pop Science](#pop-science)
 - [A Little Bit Country](#a-little-bit-country-a-little-bit-science)
 - [Heliocentrism](#heliocentrism-songs-about-the-sun)
 - [Learning Through Song](#learning-through-song)
